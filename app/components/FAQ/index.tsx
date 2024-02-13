@@ -1,6 +1,7 @@
 "use client"
 import { Disclosure } from '@headlessui/react'
 import { ChevronUpIcon } from '@heroicons/react/20/solid'
+/* eslint-disable react/no-unescaped-entities */
 
 const FAQ = () => {
     return (
