@@ -15,7 +15,7 @@ const FAQ = () => {
                                 <Disclosure.Button className="flex w-full justify-between rounded-lg px-4 py-2 text-left text-2xl font-medium">
                                     <span>Je me trouve une région éloignée, puis-je me faire livrer?</span>
                                     <ChevronUpIcon
-                                        className={`${open ? 'rotate-180 transform' : ''
+                                        className={`${open ? "rotate-180 transform" : " "
                                             } h-5 w-5 text-purple-500`}
                                     />
                                 </Disclosure.Button>
@@ -34,7 +34,7 @@ const FAQ = () => {
                                 <Disclosure.Button className="flex w-full justify-between rounded-lg px-4 py-2 text-left text-2xl font-medium">
                                     <span>J'ai besoins d'assistance d'utilisation</span>
                                     <ChevronUpIcon
-                                        className={`${open ? 'rotate-180 transform' : ''
+                                        className={`${open ? "rotate-180 transform" : " "
                                             } h-5 w-5 text-purple-500`}
                                     />
                                 </Disclosure.Button>
@@ -53,7 +53,7 @@ const FAQ = () => {
                                 <Disclosure.Button className="flex w-full justify-between rounded-lg px-4 py-2 text-left text-2xl font-medium">
                                     <span>Quelle est votre localisation?</span>
                                     <ChevronUpIcon
-                                        className={`${open ? 'rotate-180 transform' : ''
+                                        className={`${open ? "rotate-180 transform" : " "
                                             } h-5 w-5 text-purple-500`}
                                     />
                                 </Disclosure.Button>
